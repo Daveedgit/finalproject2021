@@ -24,7 +24,7 @@
   </section>
   <section class=dual>
     <figure class="thin">
-      <h3 class= "titlethin">
+      <h3 class="titlethin">
         Energy sources for electricity production in the U.S.
       </h3>
       <ul>
@@ -34,18 +34,20 @@
         <li>Natural Gas</li>
         <li>Fuels</li>
       </ul>
+      <p class="pad">
+        Electric vehicles (EVs) are portrayed by the car industry and the government as one of the solutions to global warming. However, EVs can still have an impact on the environment depending on where their source electricity is coming from. 
+      </p>
+      <p class="pad">
+        The first graph shows the average of the electricity production in a regular household. As expected, the warmer and lighter months of the year generate higher amounts of electrical power, whereas the months with shorter days generate less. In order to generate the average a household consumes per year it is necessary to have at least 20 panels, working at optimal conditions. It is calculated that transferring energy from a wind turbine field to the engine of and EV there is a lose of at least 25%.   
+      </p>
     </figure>
     
-    <figure class="thick">
-      <h4></h4>
-      <div class="ratio">
-        <iframe width="2000" height="3000" frameborder="0"
-        src="https://observablehq.com/embed/@daveedgit/line-chart?cells=chart"></iframe>
-      </div>
+    <figure class="thick drop beige">
+        <div class='tableauPlaceholder' id='viz1621910541271' style='position: relative'><noscript><a href='#'><img alt='KWh readings of electricity produced by solar Panels in a common household ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KW&#47;KWh&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='KWh&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KW&#47;KWh&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                      
     </figure>
   
   </section>
-  <section class=box3>
+  <section class="pad beige">
       <details>
         <summary>How much energy does a solar panel produce per day?</summary>
         125KW
@@ -62,43 +64,36 @@
   </section>
   <section class=dual>
     <figure class="thin">
-      <p>thin</p>
+      <p class="pad">The second graph illustrates the main sources for electricity in the U.S. Coal burning and nuclear energy continue to produce more than half of the electrical energy we consume. Natural gas is on the rise along with hydroelectrical energy. On the other side of the spectrum we find that solar and wind power produce the least. Favorably, the wind power is also on the rise but a much slower pace. </p>
+      <p class="pad">In conclusion, the U.S. needs to increment the investment in renewable resources that make the transfer and storage of energy more efficient and significative subsidies for electrical based vehicles. </p>
     </figure>
     
     <figure class="thick">
-      <div class=ratio>
+      <h3>Electricity sources in the U.S.</h3>
+      <div class="ratio stack">
       <iframe width="100%" height="583" frameborder="0"
   src="https://observablehq.com/embed/@daveedgit/tidy-stacked-area-chart?cells=chart"></iframe>
       </div>
 
-</figure>
+    </figure>
   </section>
 
   
-<!-- </section>
-    
-      <div class="container-1">
-        <div class="box-1"
-          <h3>Box One</h3>
-          <img src="EV.png" alt="Trulli" width="300" height="50"">
-          </div>
-        <div class="box-2">
-            <h3>Box Two</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-    
-    
-       <figure>
-         
-       </figure>
-      </section>
-     <section-2>
-
-     </section-2>   
-    </div> !each letter produces a DIV --> 
   
-    <script src="../lib/d3.js"></script>
-    <script src="../lib/d3-array.js"></script>
-    <script src="main.js"></script>
+  
+  <script type='text/javascript'>                    
+    var divElement = document.getElementById('viz1621910541271');               
+    var vizElement = divElement.getElementsByTagName('object')[0];                    
+    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+    var scriptElement = document.createElement('script');                    
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                  
+  </script>
+    
+  
+  
+  
+  
+  
   </body>
 </html>
