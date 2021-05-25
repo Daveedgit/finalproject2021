@@ -1,11 +1,12 @@
 body {
     background-color: seashell;
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 header {
-    color:#111;
+    color:#784786;
     font-size: 25;
+    text-align: center;
 }
 
 figure {
@@ -20,7 +21,10 @@ figure {
 
 .titlethin {
     text-align: center;
-    
+    color: #6b3f77;
+}
+.text {
+    color: #784786;
 }
 
 .thick {
