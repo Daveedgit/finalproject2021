@@ -1,0 +1,197 @@
+{
+    "name": "batteries",
+    "children": [
+        {
+            "name": "0-50",
+            "children": [
+                {
+                    "name": "HIGH",
+                    "children": [
+                        {"name": "BEVs", "value": 0},
+                        {"name": "PHEVs", "value": 0},    
+                        {"name": "HEVs", "value": 0},
+                        {"name": "CNG's", "value": 0}
+                    ]  
+                },
+                {
+                    "name": "MEDIUM",
+                    "children": [
+                        {"name": "BEVs", "value": 0},
+                        {"name": "PHEVs", "value": 0},    
+                        {"name": "HEVs", "value": 0},
+                        {"name": "CNG's", "value": 0}
+                    ]  
+                },
+                {
+                    "name": "LOW",
+                    "children": [
+                        {"name": "BEVs", "value": 0},
+                        {"name": "PHEVs", "value": 0},    
+                        {"name": "HEVs", "value": 0},
+                        {"name": "CNG's", "value": 0}
+                    ]  
+                }
+            ]
+        },
+        {
+            "name": "50-90",
+            "children": [
+                {
+                    "name": "HIGH",
+                    "children": [
+                        {"name": "BEVs", "value": 152},
+                        {"name": "PHEVs", "value": 115},    
+                        {"name": "HEVs", "value": 296},
+                        {"name": "CNG's", "value": 1}
+                    ]  
+                },
+                {
+                    "name": "MEDIUM",
+                    "children": [
+                        {"name": "BEVs", "value": 32},
+                        {"name": "PHEVs", "value": 34},    
+                        {"name": "HEVs", "value": 50},
+                        {"name": "CNGs", "value": 1}
+                    ]  
+                },
+                {
+                    "name": "LOW",
+                    "children": [
+                        {"name": "BEVs", "value": 15},
+                        {"name": "PHEVs", "value": 18},    
+                        {"name": "HEVs", "value": 27},
+                        {"name": "CNGs", "value": 0}
+                    ]  
+                }
+            ]
+        },
+        {
+            "name": "90-160",
+            "children": [
+                {
+                    "name": "HIGH",
+                    "children": [
+                        {"name": "BEVs", "value": 235},
+                        {"name": "PHEVs", "value": 219},    
+                        {"name": "HEVs", "value": 420},
+                        {"name": "CNGs", "value": 3}
+                    ]  
+                },
+                {
+                    "name": "MEDIUM",
+                    "children": [
+                        {"name": "BEVs", "value": 54},
+                        {"name": "PHEVs", "value": 48},    
+                        {"name": "HEVs", "value": 89},
+                        {"name": "CNGs", "value": 2}
+                    ]  
+                },
+                {
+                    "name": "LOW",
+                    "children": [
+                        {"name": "BEVs", "value": 15},
+                        {"name": "PHEVs", "value": 23},    
+                        {"name": "HEVs", "value": 33},
+                        {"name": "CNGs", "value": 0}
+                    ]  
+                }
+            ]
+        },
+        {
+            "name": "160-200",
+            "children": [
+                {
+                    "name": "HIGH",
+                    "children": [
+                        {"name": "BEVs", "value": 228},
+                        {"name": "PHEVs", "value": 187},    
+                        {"name": "HEVs", "value": 369},
+                        {"name": "CNGs", "value": 4}
+                    ]  
+                },
+                {
+                    "name": "MEDIUM",
+                    "children": [
+                        {"name": "BEVs", "value": 41},
+                        {"name": "PHEVs", "value": 54},    
+                        {"name": "HEVs", "value": 92},
+                        {"name": "CNGs", "value": 0}
+                    ]  
+                },
+                {
+                    "name": "LOW",
+                    "children": [
+                        {"name": "BEVs", "value": 20},
+                        {"name": "PHEVs", "value": 18},    
+                        {"name": "HEVs", "value": 25},
+                        {"name": "CNGs", "value": 0}
+                    ]  
+                }
+            ]
+        },
+        {
+            "name": "200-500",
+            "children": [
+                {
+                    "name": "HIGH",
+                    "children": [
+                        {"name": "BEVs", "value": 460},
+                        {"name": "PHEVs", "value": 276},    
+                        {"name": "HEVs", "value": 624},
+                        {"name": "CNGs", "value": 14}
+                    ]  
+                },
+                {
+                    "name": "MEDIUM",
+                    "children": [
+                        {"name": "BEVs", "value": 118},
+                        {"name": "PHEVs", "value": 73},    
+                        {"name": "HEVs", "value": 120},
+                        {"name": "CNGs", "value": 2}
+                    ]  
+                },
+                {
+                    "name": "LOW",
+                    "children": [
+                        {"name": "BEVs", "value": 44},
+                        {"name": "PHEVs", "value": 37},    
+                        {"name": "HEVs", "value": 52},
+                        {"name": "CNGs", "value": 2}
+                    ]  
+                }
+            ]
+        },
+        {
+            "name": "500+",
+            "children": [
+                {
+                    "name": "HIGH",
+                    "children": [
+                        {"name": "BEVs", "value": 104},
+                        {"name": "PHEVs", "value": 47},    
+                        {"name": "HEVs", "value": 90},
+                        {"name": "CNGs", "value": 2}
+                    ]  
+                },
+                {
+                    "name": "MEDIUM",
+                    "children": [
+                        {"name": "BEVs", "value": 22},
+                        {"name": "PHEVs", "value": 13},    
+                        {"name": "HEVs", "value": 24},
+                        {"name": "CNGs", "value": 0}
+                    ]  
+                },
+                {
+                    "name": "LOW",
+                    "children": [
+                        {"name": "BEVs", "value": 6},
+                        {"name": "PHEVs", "value": 9},    
+                        {"name": "HEVs", "value": 7},
+                        {"name": "CNGs", "value": 0}
+                    ]  
+                }
+            ]
+        }
+    ]
+}
