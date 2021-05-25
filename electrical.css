@@ -31,6 +31,12 @@ header {
     justify-content: space-around;
 }
 
+.lil {
+    text-align:left;
+    padding-left: 0.4rem;
+    
+}
+
 .flew{
     flex-basis: 20%;
     background: #f3eee4;
