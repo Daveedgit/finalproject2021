@@ -1,0 +1,241 @@
+YEAR,source,MWh
+1990,Coal,1594011482
+1990,Geothermal,15434271
+1990,Hydroelectric Conventional,292865845
+1990,Natural Gas,372765154
+1990,Nuclear,576861678
+1990,Petroleum,126460207
+1990,Solar Thermal and Photovoltaic,367087
+1990,Wind,2788600
+1991,Coal,1590622749
+1991,Geothermal,15966445
+1991,Hydroelectric Conventional,288994191
+1991,Natural Gas,381553018
+1991,Nuclear,612565087
+1991,Petroleum,119751579
+1991,Solar Thermal and Photovoltaic,471765
+1991,Wind,2950950
+1992,Coal,1621206041
+1992,Geothermal,16137962
+1992,Hydroelectric Conventional,253088005
+1992,Natural Gas,404074381
+1992,Nuclear,618776263
+1992,Petroleum,100154166
+1992,Solar Thermal and Photovoltaic,399640
+1992,Wind,2887522
+1993,Coal,1690070232
+1993,Geothermal,16788565
+1993,Hydroelectric Conventional,280494007
+1993,Natural Gas,414926798
+1993,Nuclear,610291214
+1993,Petroleum,112788179
+1993,Solar Thermal and Photovoltaic,462452
+1993,Wind,3005827
+1994,Coal,1690693868
+1994,Geothermal,15535454
+1994,Hydroelectric Conventional,260125732
+1994,Natural Gas,460218683
+1994,Nuclear,640439832
+1994,Petroleum,105900984
+1994,Solar Thermal and Photovoltaic,486622
+1994,Wind,3447109
+1995,Coal,1709426465
+1995,Geothermal,13378258
+1995,Hydroelectric Conventional,310832743
+1995,Natural Gas,496057941
+1995,Nuclear,673402123
+1995,Petroleum,74554062
+1995,Solar Thermal and Photovoltaic,496821
+1995,Wind,3164254
+1996,Coal,1795195594
+1996,Geothermal,14328684
+1996,Hydroelectric Conventional,347162062
+1996,Natural Gas,455055580
+1996,Nuclear,674728546
+1996,Petroleum,81411231
+1996,Solar Thermal and Photovoltaic,521205
+1996,Wind,3234070
+1997,Coal,1845015739
+1997,Geothermal,14726102
+1997,Hydroelectric Conventional,356453293
+1997,Natural Gas,479398667
+1997,Nuclear,628644171
+1997,Petroleum,92554870
+1997,Solar Thermal and Photovoltaic,511168
+1997,Wind,3288035
+1998,Coal,1873515690
+1998,Geothermal,14773918
+1998,Hydroelectric Conventional,323335664
+1998,Natural Gas,531257108
+1998,Nuclear,673702104
+1998,Petroleum,128800163
+1998,Solar Thermal and Photovoltaic,502473
+1998,Wind,3025695
+1999,Coal,1881087221
+1999,Geothermal,14827014
+1999,Hydroelectric Conventional,319536031
+1999,Natural Gas,556396132
+1999,Nuclear,728254123
+1999,Petroleum,118060842
+1999,Solar Thermal and Photovoltaic,495082
+1999,Wind,4487999
+2000,Coal,1966264596
+2000,Geothermal,14093158
+2000,Hydroelectric Conventional,275572599
+2000,Natural Gas,601038157
+2000,Nuclear,753892940
+2000,Petroleum,111220965
+2000,Solar Thermal and Photovoltaic,493375
+2000,Wind,5593261
+2001,Coal,1903955943
+2001,Geothermal,13740501
+2001,Hydroelectric Conventional,216961044
+2001,Natural Gas,639129120
+2001,Nuclear,768826308
+2001,Petroleum,124880222
+2001,Solar Thermal and Photovoltaic,542755
+2001,Wind,6737332
+2002,Coal,1933130354
+2002,Geothermal,14491310
+2002,Hydroelectric Conventional,264328832
+2002,Natural Gas,691005746
+2002,Nuclear,780064087
+2002,Petroleum,94567391
+2002,Solar Thermal and Photovoltaic,554831
+2002,Wind,10354279
+2003,Coal,1973736750
+2003,Geothermal,14424231
+2003,Hydroelectric Conventional,275806327
+2003,Natural Gas,649907540
+2003,Nuclear,763732695
+2003,Petroleum,119405643
+2003,Solar Thermal and Photovoltaic,534001
+2003,Wind,11187466
+2004,Coal,1978300547
+2004,Geothermal,14810974
+2004,Hydroelectric Conventional,268417305
+2004,Natural Gas,710100016
+2004,Nuclear,788528387
+2004,Petroleum,121145057
+2004,Solar Thermal and Photovoltaic,575155
+2004,Wind,14143741
+2005,Coal,2012873044
+2005,Geothermal,14691745
+2005,Hydroelectric Conventional,270321255
+2005,Natural Gas,760960257
+2005,Nuclear,781986365
+2005,Petroleum,122225017
+2005,Solar Thermal and Photovoltaic,550294
+2005,Wind,17810549
+2006,Coal,1990511135
+2006,Geothermal,14568029
+2006,Hydroelectric Conventional,289246415
+2006,Natural Gas,816440771
+2006,Nuclear,787218636
+2006,Petroleum,64166414
+2006,Solar Thermal and Photovoltaic,507706
+2006,Wind,26589137
+2007,Coal,2016455582
+2007,Geothermal,14637213
+2007,Hydroelectric Conventional,247509975
+2007,Natural Gas,896589792
+2007,Nuclear,806424753
+2007,Petroleum,65738981
+2007,Solar Thermal and Photovoltaic,611793
+2007,Wind,34449927
+2008,Coal,1985801246
+2008,Geothermal,14839977
+2008,Hydroelectric Conventional,254831384
+2008,Natural Gas,882980600
+2008,Nuclear,806208435
+2008,Petroleum,46242611
+2008,Solar Thermal and Photovoltaic,864315
+2008,Wind,55363101
+2009,Coal,1755904251
+2009,Geothermal,15008658
+2009,Hydroelectric Conventional,273445095
+2009,Natural Gas,920978681
+2009,Nuclear,798854585
+2009,Petroleum,38936519
+2009,Solar Thermal and Photovoltaic,891180
+2009,Wind,73886134
+2010,Coal,1847290278
+2010,Geothermal,15219213
+2010,Hydroelectric Conventional,260203069
+2010,Natural Gas,987697233
+2010,Nuclear,806968301
+2010,Petroleum,37061014
+2010,Solar Thermal and Photovoltaic,1212183
+2010,Wind,94652248
+2011,Coal,1733430001
+2011,Geothermal,15316068
+2011,Hydroelectric Conventional,319354905
+2011,Natural Gas,1013688929
+2011,Nuclear,790204367
+2011,Petroleum,30182243
+2011,Solar Thermal and Photovoltaic,1817696
+2011,Wind,120176599
+2012,Coal,1514042945
+2012,Geothermal,15562426
+2012,Hydroelectric Conventional,276240218
+2012,Natural Gas,1225894176
+2012,Nuclear,769331249
+2012,Petroleum,23189542
+2012,Solar Thermal and Photovoltaic,4326676
+2012,Wind,140821714
+2013,Coal,1581114717
+2013,Geothermal,15774674
+2013,Hydroelectric Conventional,268565382
+2013,Natural Gas,1124835558
+2013,Nuclear,789016473
+2013,Petroleum,27164443
+2013,Solar Thermal and Photovoltaic,9035621
+2013,Wind,167839746
+2014,Coal,1581710349
+2014,Geothermal,15876941
+2014,Hydroelectric Conventional,259366620
+2014,Natural Gas,1126608954
+2014,Nuclear,797165982
+2014,Petroleum,30231864
+2014,Solar Thermal and Photovoltaic,17691030
+2014,Wind,181655283
+2015,Coal,1352398199
+2015,Geothermal,15917575
+2015,Hydroelectric Conventional,249080085
+2015,Natural Gas,1333482112
+2015,Nuclear,797177877
+2015,Petroleum,28248749
+2015,Solar Thermal and Photovoltaic,24892903
+2015,Wind,190718548
+2016,Coal,1239148654
+2016,Geothermal,15825807
+2016,Hydroelectric Conventional,267812153
+2016,Natural Gas,1378306932
+2016,Nuclear,805693948
+2016,Petroleum,24204806
+2016,Solar Thermal and Photovoltaic,36054123
+2016,Wind,226992562
+2017,Coal,1205835276
+2017,Geothermal,15926774
+2017,Hydroelectric Conventional,300332930
+2017,Natural Gas,1296442491
+2017,Nuclear,804949635
+2017,Petroleum,21389944
+2017,Solar Thermal and Photovoltaic,53286866
+2017,Wind,254302694
+2018,Coal,1149487340
+2018,Geothermal,15967134
+2018,Hydroelectric Conventional,292523989
+2018,Natural Gas,1469132683
+2018,Nuclear,807084477
+2018,Petroleum,25225618
+2018,Solar Thermal and Photovoltaic,63825317
+2018,Wind,272667455
+2019,Coal,964956811
+2019,Geothermal,15472717
+2019,Hydroelectric Conventional,287873730
+2019,Natural Gas,1585814176
+2019,Nuclear,809409262
+2019,Petroleum,18340744
+2019,Solar Thermal and Photovoltaic,71936822
+2019,Wind,295882485
