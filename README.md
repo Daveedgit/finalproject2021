@@ -1,3 +1,4 @@
+[Exploratory_1.pdf](https://github.com/Daveedgit/finalproject2021/files/6550032/Exploratory_1.pdf)
 # Final Portfolio - Interactive Visualization
 
 - [electrical.html](https://daveedgit.github.io/finalproject2021/electrical.html)
