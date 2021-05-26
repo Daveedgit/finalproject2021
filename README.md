@@ -16,4 +16,4 @@ Please see the result of a recent brainstorming sessions with colleague sstudent
 ![David   Kai (1)](https://user-images.githubusercontent.com/60953851/113631058-dc19a280-9636-11eb-9ebc-c7ed487c2aa7.jpg)
 
  # Narrative
- ![First Iteration] [embed]https://github.com/Daveedgit/finalproject2021/blob/main/Exploratory_1.pdf[/embed]
+ ![First Iteration] (https://github.com/Daveedgit/finalproject2021/blob/main/Exploratory_1.pdf)
